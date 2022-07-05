@@ -1,2 +1,2 @@
-# mindfulspirit.github.io
- Github Website of Mindfulspirit
+# module3-solution
+ Webdeveloping Coursera Assignment
